@@ -1,4 +1,8 @@
 # Udah Tinggal Pake Aja Gan:v
+# Jangan dirubah biar ga eror
+# recode gabakal bikin lo pro
+# gw ga izinin lo recode usaha gw
+# bikin sendiri asu
 import os,sys,json
 try:
 	import requests as reek
