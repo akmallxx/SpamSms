@@ -1,7 +1,7 @@
-pkg update -y
-pkg upgrade -y
-pkg install curl -y
-pkg install jq -y
-pkg install python -y
+pkg update
+pkg upgrade
+pkg install curl
+pkg install jq
+pkg install python
 
 python jalan.py
