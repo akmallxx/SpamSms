@@ -24,7 +24,7 @@
 
 ## Turn On
 ```sh
-> python SpamSms.py
+> python jalan.py
 ```
 
 ## Turn Off
