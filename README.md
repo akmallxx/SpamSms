@@ -10,7 +10,8 @@
 ## Usage
 ```sh
 > pkg update && pkg upgrade
-> pkg install python
+> pkg i python
+>pkg i git
 > git clone https://github.com/Dvnz99/SpamSms
 > cd SpamSms
 ```
