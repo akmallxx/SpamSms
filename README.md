@@ -11,7 +11,7 @@
 ```sh
 > pkg update && pkg upgrade
 > pkg i python
->pkg i git
+> pkg i git
 > git clone https://github.com/Dvnz99/SpamSms
 > cd SpamSms
 ```
