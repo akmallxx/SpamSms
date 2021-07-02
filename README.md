@@ -7,25 +7,6 @@
   <a href="https://github.com/Dvnz99"><img title="Author" src="https://img.shields.io/badge/Author-dvnz99-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
-## Usage
-```sh
-> pkg update && pkg upgrade
-> pkg i python
-> pkg i git
-> git clone https://github.com/Dvnz99/SpamSms
-> cd SpamSms
-```
-
-## Turn On
-```sh
-> python jalan.py
-```
-
-## Turn Off
-```sh
-ctrl + z
-```
-
 ## &#x1F919; Special Thanks To
 
 <a href="https://github.com/ravel-iska"><img alt="GitHub" src="https://img.shields.io/badge/ravel-iska%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
