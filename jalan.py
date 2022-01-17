@@ -99,7 +99,7 @@ banner = """
 ==================================================
            - TOOLS SPAM SMS & CALL  -
 
-       - JANGAN LUPA FOLLOW IG @AKMAL.OKZ -
+       - JANGAN LUPA FOLLOW IG @akmall.xx -
 
                    - DONASI? -
 
@@ -111,7 +111,7 @@ banner = """
 ==================================================
 """
 print (banner)
-print("[+] Script By Akmal Vnz")
+print("[+] Script By Akmalz")
 print("[+] Example : 08xxx")
 while True:
 	try:
