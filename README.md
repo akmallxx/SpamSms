@@ -1,8 +1,9 @@
 <h1 align="center">Welcome To My Github <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Spam sms & call !</h1>
-
+<--
 <p align="center">
 <img src="https://i.ibb.co/qjHX40q/Earth-chan-full-2237789.jpg" width="100%" alt="API Giphy logo"/>
 </p>
+-->
 <p align="center">
   <a href="https://github.com/Dvnz99"><img title="Author" src="https://img.shields.io/badge/Author-dvnz99-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
