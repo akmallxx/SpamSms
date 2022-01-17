@@ -4,12 +4,13 @@
   <a href="https://github.com/Dvnz99"><img title="Author" src="https://img.shields.io/badge/Author-dvnz99-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
-## Tutor termux su
+## Tutor termux su, baca yg bner biar ga bego
 ```
 > apt-get update && apt-get upgrade
 > apt update
 > apt upgrade
 > apt install python
+> apt install git
 > git clone https://kontol.com/akmallxx/SpamSms
 > python jalan.py
 ```
